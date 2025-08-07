@@ -24,7 +24,6 @@ This project explores classification of satellite imagery using the UC Merced La
 | `matplotlib`           | Plotting training curves                             |
 | `scikit-learn`         | Classification report, confusion matrix, metrics     |
 | `Flask`                | Web framework for demo interface                     |
-| `werkzeug`             | Secure filenames for uploads                         |
 
 ## Installation
 ```bash
