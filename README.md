@@ -58,7 +58,7 @@ Run training scripts or execute notebook cells to reproduce results or directly 
 - Custom CNN(baseline)
 
 ## Results
-MobileNet performs the best 98% accuracy on test set compared 96% of VGG16 and 72% Custom CNN 
+MobileNet performs the best 98% accuracy on test set compared to 96% of VGG16 and 72% of Custom CNN 
 
 ## Flask Web App
 1) Navigate to http://127.0.0.1:5000
