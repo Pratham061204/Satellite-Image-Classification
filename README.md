@@ -1,6 +1,6 @@
 # Satellite-Image-Classification
 
-This repository implements a **Satellite Image Classification** pipeline using the **UC Merced Land Use Dataset**—a collection of 2,100 aerial images across 21 land-use classes. Leveraging **Transfer Learning** with pretrained CNNs with custom layers and a custom CNN(for baseline purposes), the project achieves high accuracy ~98%) and provides a Flask web interface for real-time predictions.
+This repository implements a **Satellite Image Classification** pipeline using the **UC Merced Land Use Dataset**—a collection of 2,100 aerial images across 21 land-use classes. Leveraging **Transfer Learning** with pretrained CNNs with custom layers and a custom CNN(for baseline purposes), the project achieves high accuracy (~98%) and provides a Flask web interface for real-time predictions.
 
 ---
 ## Project Overview
