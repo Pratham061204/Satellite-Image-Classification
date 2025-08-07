@@ -64,6 +64,5 @@ MobileNet performs the best 98% accuracy on test set compared 96% of VGG16 and 7
 1) Navigate to http://127.0.0.1:5000
 2) Upload a satellite image
 3) View the predicted land-use class
-Use load_model() to load your chosen model and preprocess input for inference.
 
 
